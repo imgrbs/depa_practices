@@ -1,0 +1,49 @@
+Course content
+	    	Collapse all 33 lectures  	03:33:30 
+	–    	Building a Foundation  	39:21 
+	    	Introduction  	05:01 
+	    	Use Cases For Regular Expressions  	09:50 
+	    	Course RoadMap  	05:03 
+	    	About Course Subtitles  	01:40 
+	    	Deep Dive - First Example  	07:11 
+	    	Resources for Download  	00:03 
+	    	A generic solution to any regex problem  	02:47 
+	    	Hands-on with Linux Grep regex engine  	04:06 
+	    	Hands-on with Java regex engine  	03:40 
+Building a Foundation 
+3 questions
+	–    	Regex: The Basic Set  	01:26:46 
+	    	Introduction  	01:01 
+	    	The Wildcard Symbol  	06:05 
+	    	Wildcard Asterisk Combo  	04:55 
+	    	Representing Whitespaces  	04:24 
+	    	Character Classes  	17:21 
+	    	Character Classes With Ranges  	18:17 
+	    	Escaping With Backslash  	22:05 
+	    	Anchors  	12:38 
+Regex: The Basic Set 
+3 questions
+	–    	Regex: The Extended Set  	33:00 
+	    	Introduction  	00:55 
+	    	Curly Braces Repeater  	10:18 
+	    	Single Ended Curly Braces Repeater  	10:03 
+	    	The Plus Repeater  	04:03 
+	    	The Question Mark Binary  	04:09 
+	    	Making Choices With Pipe  	03:32 
+Regex: The Extended Set 
+3 questions
+	–    	Regex: Find and Replace with Capture Groups  	48:12 
+	    	Introduction  	01:46 
+	    	The Monitor Resolutions Problem  	12:37 
+	    	The First Name Last Name Problem  	06:30 
+	    	The Clock Time Problem  	06:15 
+	    	The Phone Number Problem  	07:01 
+	    	The Date Problem  	06:55 
+	    	Another Phone Number Problem  	07:08 
+Regex: Find and Replace with Capture Groups 
+3 questions
+	–    	Regex: Challenges  	05:09 
+	    	Introduction  	01:17 
+	    	The Email Challenge  	03:52 
+	–    	Wrap up  	01:01 
+	    	Wrapping it all up  	01:01 
